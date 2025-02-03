@@ -1,0 +1,8 @@
+git status -> ver los cambios hechos
+git add <file_name> <file_name> -> para señalar que
+            archivos se empaquetaran en un commit
+git commit -> empaquetar los cambios y darle un titulo
+            e identificador
+git push -> empujar uno o varios commits a github
+git pull -> traer al local cambios que estén en github
+git checkout <nombre_rama> -> cambiar de rama
